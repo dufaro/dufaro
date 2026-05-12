@@ -43,7 +43,15 @@
 ### ⏱ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-WakaTime の統計はまだ取得されていません。GitHub Actions が初回実行されると、ここに週間の言語別・エディタ別コーディング時間が自動表示されます ⏳
+
+```txt
+From: 04 May 2026 - To: 11 May 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
