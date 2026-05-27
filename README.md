@@ -45,16 +45,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 May 2026 - To: 26 May 2026
+From: 20 May 2026 - To: 27 May 2026
 
-Total Time: 7 hrs 22 mins
+Total Time: 5 hrs 22 mins
 
-TypeScript    5 hrs 8 mins          █████████████████▒░░░░░░░   69.59 %
-CSS           1 hr 36 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.73 %
-HTML          29 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-Markdown      2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Image (png)   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Other         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+TypeScript    3 hrs 13 mins         ███████████████░░░░░░░░░░   60.01 %
+CSS           1 hr 36 mins          ███████▒░░░░░░░░░░░░░░░░░   29.93 %
+HTML          29 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+Image (png)   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+JSON          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Git Config    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Markdown      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Bash          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
